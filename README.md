@@ -1,4 +1,4 @@
-# Labo 9 - HTML Formulieren
+# Labo 09
 
 - Zorg dat Codium en alle nodige extensies zijn geïnstalleerd.
 - Volg de gegeven bestandenstructuur.
