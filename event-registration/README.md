@@ -1,8 +1,8 @@
-## Conferentie Registratie
+# Conferentie Registratie
 
 Maak een volledig functioneel en responsief registratieformulier voor een tech-conferentie. Dit formulier moet alle geleerde concepten over formulieren en styling combineren.
 
-### Onderdelen van het formulier
+## Onderdelen van het formulier
 
 - **Persoonlijke Gegevens:**
   - Volledige naam (text, verplicht)
@@ -19,7 +19,7 @@ Maak een volledig functioneel en responsief registratieformulier voor een tech-c
 - **Verzenden:**
   - Een duidelijke submit button.
 
-### Technische Eisen
+## Technische Eisen
 
 - **Layout & Responsiviteit:**
   - Gebruik **Flexbox** om inputgroepen (bijv. Naam en E-mail) naast elkaar te zetten op grote schermen, maar onder elkaar op mobiel.
