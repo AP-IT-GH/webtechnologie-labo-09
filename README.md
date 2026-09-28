@@ -8,6 +8,10 @@
 - Zorg ervoor dat de body children zowel verticaal als horizontaal in het midden van de webpagina gecentreerd staan. Gebruik hiervoor CSS Grid.
 - Voorzie de achtergrond van de body van een leuke gradient (bijv. via [cssgradient.io](https://cssgradient.io/)).
 
+De algemene layout ziet er zo uit:
+
+![algemene layout](./algemene-layout.webp)
+
 ## Bestandenstructuur
 
 ```

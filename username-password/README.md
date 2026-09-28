@@ -13,3 +13,7 @@ Maak een formulier waarin de gebruiker een gebruikersnaam en wachtwoord kan invo
   - Voorzie een padding van 0.5rem.
   - Voorzie een 2px volle zwarte border met een border-radius van 7px.
   - Wanneer de gebruiker over de input of button hovert en wanneer de focus in de input staat, moet de input een paarse outline krijgen. Zorg voor dezelfde border-radius als de gewone border.
+
+## Verwacht resultaat
+
+![username-password](./opgave.webp)
